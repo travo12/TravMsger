@@ -1,0 +1,12 @@
+C:\Users\Peter-Cragg.PCPC\Desktop\Github Projects\TravMsgServer\TravMsgServer\bin\Debug\TravMsgServer.exe.config
+C:\Users\Peter-Cragg.PCPC\Desktop\Github Projects\TravMsgServer\TravMsgServer\obj\Debug\TravMsgServer.csprojResolveAssemblyReference.cache
+C:\Users\Peter-Cragg.PCPC\Desktop\Github Projects\TravMsgServer\TravMsgServer\bin\Debug\TravMsgServer.exe
+C:\Users\Peter-Cragg.PCPC\Desktop\Github Projects\TravMsgServer\TravMsgServer\bin\Debug\TravMsgServer.pdb
+C:\Users\Peter-Cragg.PCPC\Desktop\Github Projects\TravMsgServer\TravMsgServer\obj\Debug\TravMsgServer.exe
+C:\Users\Peter-Cragg.PCPC\Desktop\Github Projects\TravMsgServer\TravMsgServer\obj\Debug\TravMsgServer.pdb
+C:\Users\Peter-Cragg.PCPC\Desktop\Github Projects\TravMsger\TravMsgServer\bin\Debug\TravMsgServer.exe.config
+C:\Users\Peter-Cragg.PCPC\Desktop\Github Projects\TravMsger\TravMsgServer\obj\Debug\TravMsgServer.exe
+C:\Users\Peter-Cragg.PCPC\Desktop\Github Projects\TravMsger\TravMsgServer\obj\Debug\TravMsgServer.pdb
+C:\Users\Peter-Cragg.PCPC\Desktop\Github Projects\TravMsger\TravMsgServer\bin\Debug\TravMsgServer.exe
+C:\Users\Peter-Cragg.PCPC\Desktop\Github Projects\TravMsger\TravMsgServer\bin\Debug\TravMsgServer.pdb
+C:\Users\Peter-Cragg.PCPC\Desktop\Github Projects\TravMsger\TravMsgServer\obj\Debug\TravMsgServer.csprojResolveAssemblyReference.cache

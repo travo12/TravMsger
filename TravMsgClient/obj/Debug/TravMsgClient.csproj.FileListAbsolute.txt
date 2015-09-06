@@ -16,3 +16,12 @@ C:\Users\Peter-Cragg.PCPC\Desktop\Github Projects\TravMsger\TravMsgClient\obj\De
 C:\Users\Peter-Cragg.PCPC\Desktop\Github Projects\TravMsger\TravMsgClient\obj\Debug\TravMsgClient.Form1.resources
 C:\Users\Peter-Cragg.PCPC\Desktop\Github Projects\TravMsger\TravMsgClient\obj\Debug\TravMsgClient.Properties.Resources.resources
 C:\Users\Peter-Cragg.PCPC\Desktop\Github Projects\TravMsger\TravMsgClient\obj\Debug\TravMsgClient.csproj.GenerateResource.Cache
+C:\Users\Trav\Desktop\Projects\TravMsger\TravMsgClient\bin\Debug\TravMsgClient.exe.config
+C:\Users\Trav\Desktop\Projects\TravMsger\TravMsgClient\obj\Debug\TravMsgClient.exe
+C:\Users\Trav\Desktop\Projects\TravMsger\TravMsgClient\obj\Debug\TravMsgClient.pdb
+C:\Users\Trav\Desktop\Projects\TravMsger\TravMsgClient\bin\Debug\TravMsgClient.exe
+C:\Users\Trav\Desktop\Projects\TravMsger\TravMsgClient\bin\Debug\TravMsgClient.pdb
+C:\Users\Trav\Desktop\Projects\TravMsger\TravMsgClient\obj\Debug\TravMsgClient.csprojResolveAssemblyReference.cache
+C:\Users\Trav\Desktop\Projects\TravMsger\TravMsgClient\obj\Debug\TravMsgClient.Form1.resources
+C:\Users\Trav\Desktop\Projects\TravMsger\TravMsgClient\obj\Debug\TravMsgClient.Properties.Resources.resources
+C:\Users\Trav\Desktop\Projects\TravMsger\TravMsgClient\obj\Debug\TravMsgClient.csproj.GenerateResource.Cache

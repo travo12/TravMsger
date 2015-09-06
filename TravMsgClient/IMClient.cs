@@ -40,7 +40,7 @@ namespace TravMsgClient
         public BinaryWriter bw;
 
 
-        public string Server { get { return "localhost"; } }
+        public string Server { get { return "192.168.2.231"; } }
         public int Port { get { return 2000; } }
         public string UserName { get { return _user; } }
 

@@ -99,6 +99,10 @@ namespace TravMsgClient
             }
             else if(statuscheck == IM_OK)
             {
+                Chat_Window.Items.Add("Login Successful!");
+                Chat_Window.Items.Add("begin typing now!");
+
+
                 return true;
             }
 

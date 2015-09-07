@@ -10,3 +10,9 @@ C:\Users\Peter-Cragg.PCPC\Desktop\Github Projects\TravMsger\TravMsgServer\obj\De
 C:\Users\Peter-Cragg.PCPC\Desktop\Github Projects\TravMsger\TravMsgServer\bin\Debug\TravMsgServer.exe
 C:\Users\Peter-Cragg.PCPC\Desktop\Github Projects\TravMsger\TravMsgServer\bin\Debug\TravMsgServer.pdb
 C:\Users\Peter-Cragg.PCPC\Desktop\Github Projects\TravMsger\TravMsgServer\obj\Debug\TravMsgServer.csprojResolveAssemblyReference.cache
+C:\Users\Trav\Desktop\Projects\TravMsger\TravMsgServer\bin\Debug\TravMsgServer.exe.config
+C:\Users\Trav\Desktop\Projects\TravMsger\TravMsgServer\obj\Debug\TravMsgServer.exe
+C:\Users\Trav\Desktop\Projects\TravMsger\TravMsgServer\obj\Debug\TravMsgServer.pdb
+C:\Users\Trav\Desktop\Projects\TravMsger\TravMsgServer\bin\Debug\TravMsgServer.exe
+C:\Users\Trav\Desktop\Projects\TravMsger\TravMsgServer\bin\Debug\TravMsgServer.pdb
+C:\Users\Trav\Desktop\Projects\TravMsger\TravMsgServer\obj\Debug\TravMsgServer.csprojResolveAssemblyReference.cache

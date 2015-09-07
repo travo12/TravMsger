@@ -38,14 +38,18 @@ namespace TravMsgClient
         public NetworkStream netstream;
         public BinaryReader br;
         public BinaryWriter bw;
+        public IPEndPoint endPoint;
 
 
-        public string Server { get { return "192.168.2.231"; } }
+        public string Server { get { return "104.40.11.60"; } }
         public int Port { get { return 2000; } }
         public string UserName { get { return _user; } }
 
         void SetupConn()
         {
+
+           // endPoint = new IPEndPoint(Server, Port);
+           // client = new TcpClient(Server, Port);
             client = new TcpClient(Server, Port);
             netstream = client.GetStream();
 

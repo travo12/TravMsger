@@ -21,7 +21,7 @@ namespace TravMsgServer
             Console.ReadLine();
         }
 
-        public IPAddress ip = IPAddress.Parse("127.0.0.1");
+        public IPAddress ip = IPAddress.Parse("192.168.2.231");
         public int port = 2000;
         public bool running = true;
         public TcpListener server;
@@ -34,6 +34,9 @@ namespace TravMsgServer
         {
             Console.Title = "InstantMessenger Server";
             Console.WriteLine("----- Trav's IM Server ------");
+
+            Console.WriteLine("Please enter the IP of the server");
+            ip = IPAddress.Parse(Console.ReadLine());
 
             server = new TcpListener(ip, port);
             server.Start();
